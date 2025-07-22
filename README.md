@@ -80,3 +80,11 @@ USE mydata;
 
 ![page_13_img_2](https://github.com/user-attachments/assets/23e01bb5-0fa3-4291-952b-db15c65e021b)
 
+
+
+
+##📚 References
+
+Tkinter GUI Tutorials
+
+MySQL Connector Docs
