@@ -36,3 +36,31 @@ USE mydata;
     DateOfBirth VARCHAR(255),
     PatientAddress VARCHAR(255)
 );
+
+## 📸 Screenshots
+
+➤ GUI - Home Screen
+
+![page_12_img_3](https://github.com/user-attachments/assets/30c734b9-c935-46b4-bb41-c47bd246df93)
+
+
+![page_11_img_2](https://github.com/user-attachments/assets/672a77fc-3972-4c1a-817d-2b80eeba3963)
+
+
+➤ Insert New Record
+
+![page_11_img_1](https://github.com/user-attachments/assets/708e660a-0860-4619-95ee-6c75d8ec7780)
+
+
+➤ Updated Record
+
+
+![page_12_img_1](https://github.com/user-attachments/assets/14816e78-4e92-440a-8965-bc6b6951d6e3)
+
+
+
+➤ SQL Table View
+
+
+![page_13_img_2](https://github.com/user-attachments/assets/23e01bb5-0fa3-4291-952b-db15c65e021b)
+
