@@ -19,7 +19,7 @@ A Hospital Management System GUI built using **Python's Tkinter** for the front-
 
 ## CREATE DATABASE mydata;
 
-## USE mydata;
+USE mydata;
 
 ## CREATE TABLE hospital (
     Nameoftablets VARCHAR(255),
