@@ -58,6 +58,22 @@ USE mydata;
 ![page_12_img_1](https://github.com/user-attachments/assets/14816e78-4e92-440a-8965-bc6b6951d6e3)
 
 
+➤ Delete  Record
+
+
+![page_12_img_2](https://github.com/user-attachments/assets/61d671fd-ce4a-4ccb-87e1-5a9f09e74caf)
+
+
+➤  Clear Record
+
+![page_12_img_3](https://github.com/user-attachments/assets/6e26c432-d4a0-43d5-a394-2c3083048721)
+
+
+➤ Exit
+
+
+![page_13_img_1](https://github.com/user-attachments/assets/ada43d28-c14a-45a5-a055-85f63aebe7f1)
+
 
 ➤ SQL Table View
 
